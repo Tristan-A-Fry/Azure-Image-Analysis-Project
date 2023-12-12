@@ -4,6 +4,8 @@
 
 This project was something fun to do, and to help me learn how to connect a front end to a back end while using an api to provide some additional functionality. This project was also to help me get a brief overview of ASP.NET Core and the functionality it has to offer.
 
+I am using React and JavaScript for the front end, and C#, ASP.NET core for the backend.
+
 ## How to use
 
 This project only runs locally and requires some brief setup (see setup & installation below). Once set up. run back end `dotnet run` and then run the frontend `npm start`.
