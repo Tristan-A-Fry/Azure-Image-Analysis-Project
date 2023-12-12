@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IhSNMOQtA4l1qTh94xOkwI8vV59CgN++ne8Hdz7T0IY=",
+  "Source": "image-analysis-api",
+  "BasePath": "_content/image-analysis-api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
