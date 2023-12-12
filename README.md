@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was something fun to do, and to help me learn how to connect a front end to a back end while using an api to provide some additional functionality. This project was also to help me get a brief overview of ASP.Net Core and the functionality it has to offer.
+This project was something fun to do, and to help me learn how to connect a front end to a back end while using an api to provide some additional functionality. This project was also to help me get a brief overview of ASP.NET Core and the functionality it has to offer.
 
 ## How to use
 
