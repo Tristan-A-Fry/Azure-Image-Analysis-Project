@@ -10,4 +10,5 @@
 
 ## Setup
 
-- 
+- make sure to change local host URL to your preference URL's
+- backend currently on localhost:5006, frontend on localhost:3000
