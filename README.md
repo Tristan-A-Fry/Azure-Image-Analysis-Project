@@ -8,7 +8,7 @@ This project was something fun to do, and to help me learn how to connect a fron
 
 This project only runs locally and requires some brief setup (see setup & installation below). Once set up. run back end `dotnet run` and then run the frontend `npm start`.
 
-Once up and running select an image to upload and the app should say something about the photo (note that I have not played too much with the parameters of the actual vision api, so it is very basic).
+Once up and running select an image to upload and the app should say something about the photo (note that I have not played to much with the parameters of the actual vision api, so it is very basic).
  
 ## Installation
 
