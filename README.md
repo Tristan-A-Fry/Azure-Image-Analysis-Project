@@ -6,9 +6,9 @@ This project was something fun to do, and to help me learn how to connect a fron
 
 ## How to use
 
-This project only runs locally and requires some breif setup (see setup below). Once set up. run back end `dotnet run` and then run the frontend `npm start`.
+This project only runs locally and requires some brief setup (see setup & installation below). Once set up. run back end `dotnet run` and then run the frontend `npm start`.
  
-## Install
+## Installation
 
 - Install Azure Vision SDK https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/sdk/install-sdk?tabs=windows%2Cubuntu%2Cdotnetcli%2Cterminal%2Cmaven&pivots=programming-language-csharp
 - Make sure running latest version of ASP. NET Core, as well as node & react
